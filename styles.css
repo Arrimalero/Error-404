@@ -55,7 +55,7 @@ body{
   color: white;
 }
 .todo{
-    background: linear-gradient(#AB88FF, #95DAC1);
+    background: linear-gradient(#AB88FF, #AAA);
     margin-right: 0px;
 }
 .error{
