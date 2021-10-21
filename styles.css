@@ -55,11 +55,11 @@ body{
   color: white;
 }
 .todo{
-    background: linear-gradient(#AB88FF, #AAA);
+    background: linear-gradient(#AB88FF, #3E065F);
     margin-right: 0px;
 }
 .error{
-  background: linear-gradient(#AB88FF, #95DAC1);
+  background: linear-gradient(#E26A2C, #3E065F);
   margin-right: 0px;
   height: 397px;
 }
